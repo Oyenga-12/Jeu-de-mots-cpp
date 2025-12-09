@@ -58,6 +58,7 @@ word-guess/
 └─ README.md
 
 License
+
 The project is released under the MIT License. See the LICENSE file for details.
 
 Author
