@@ -1,7 +1,9 @@
 Project Name
+
 Word Guess Game – Console Edition
 
 Description
+
 A simple command‑line word‑guessing game written in C++17.
 The program selects a random English word from a dictionary file, displays it as a series of underscores, and lets the player guess letters. The player has 10 attempts to reveal the whole word. Correct letters are shown in their positions, while wrong guesses reduce the remaining attempts. The game ends with a win (the word is guessed) or a loss (the attempts are exhausted).
 
