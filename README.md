@@ -8,7 +8,7 @@ The program selects a random English word from a dictionary file, displays it as
 Installation
 
 1. Clone the repository
-   git clone https://github.com/Oyenga-12/Library-management.git
+   git clone https://github.com/Oyenga-12/word-guess.git
    cd word-guess
    
 
@@ -63,5 +63,6 @@ The project is released under the MIT License. See the LICENSE file for details.
 Author
 ADJAMBO Espoir Oyenga – Computer Science student,
 Polytechnic State University of Nizhny Novgorod, Russia
-GitHub: https://github.com/Oyenga-12
+GitHub profile: https://github.com/Oyenga-12
+
 Feel free to open an issue or submit a pull request if you have suggestions or improvements.
