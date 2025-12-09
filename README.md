@@ -55,16 +55,16 @@ word-guess/
 │   └─ main.cpp          # Main source file
 │
 ├─ words_alpha.txt       # Dictionary file (one word per line)
-│
-├─ CMakeLists.txt        # CMake configuration
 └─ README.md
 
 License
 The project is released under the MIT License. See the LICENSE file for details.
 
 Author
+
 ADJAMBO Espoir Oyenga – Computer Science student,
 Polytechnic State University of Nizhny Novgorod, Russia
+
 GitHub profile: https://github.com/Oyenga-12
 
 Feel free to open an issue or submit a pull request if you have suggestions or improvements.
