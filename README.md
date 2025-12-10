@@ -34,17 +34,25 @@ Run the program from a terminal:
 The game will display the hidden word and the number of remaining attempts. Type a single letter and press Enter. The program will inform you whether the guess is correct and update the display. The game finishes when the word is fully revealed or when the 10 attempts are used up.
 
 Example
+
 A random English word has been chosen.
+
 You have 10 attempts to guess the letters.
 
 Word: _ _ _ _ _
+
 Attempts left: 10
+
 Enter a letter: e
+
 Correct!
 
 Word: _ e _ _ _
+
 Attempts left: 10
+
 Enter a letter: a
+
 Wrong guess!
 ...
 
@@ -57,9 +65,7 @@ word-guess/
 ├─ words_alpha.txt       # Dictionary file (one word per line)
 └─ README.md
 
-License
 
-The project is released under the MIT License. See the LICENSE file for details.
 
 Author
 
